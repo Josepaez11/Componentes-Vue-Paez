@@ -22,15 +22,15 @@
 
 <script>
 export default {
-  name: 'RenderTable',
-  props: {
+    name: 'RenderTable',
+    props: {
     data_class: Object,
     data_style: Object,
     lista: Array,
     formato: String
-  },
-  methods:{
-  }
+    },
+    methods:{
+    }
 }
 </script>
 
